@@ -401,7 +401,7 @@ void adbd_auth_tls_handshake(atransport* t) {
     }).detach();
 }
 ```
-#packages/modules/adb/daemon/main.cpp
+# packages/modules/adb/daemon/main.cpp
 ```
 /*
  * Copyright (C) 2015 The Android Open Source Project
