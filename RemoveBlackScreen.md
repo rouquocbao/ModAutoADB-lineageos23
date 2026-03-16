@@ -3,7 +3,7 @@
 
 # Dưới đây là các vị trí chính xác bạn cần chỉnh sửa để vô hiệu hóa hoàn toàn FLAG_SECURE:
 
-# 1. Can thiệp tầng Native (SurfaceFlinger)
+1. Can thiệp tầng Native (SurfaceFlinger)
 # Đây là "chốt chặn" cuối cùng. Nếu SurfaceFlinger cho rằng một Layer không bảo mật, nó sẽ cho phép quay/chụp màn hình bất kể ứng dụng yêu cầu gì.
 
 # File: frameworks/native/services/surfaceflinger/Layer.cpp
