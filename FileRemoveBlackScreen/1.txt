@@ -1,1 +1,5 @@
 
+frameworks/native/services/surfaceflinger/Layer.cpp
+frameworks/base/services/core/java/com/android/server/wm/WindowState.java
+frameworks/base/core/java/android/view/SurfaceControl.java
+frameworks/base/services/core/java/com/android/server/display/VirtualDisplayAdapter.java
