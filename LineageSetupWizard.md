@@ -1,5 +1,6 @@
 # modROM-Lineageos23
 # bypass LineageSetupWizard
+## vendor/lineage/config/common.mk
 # 1. Loại bỏ LineageSetupWizard khỏi danh sách Build
 Trong file bạn gửi, tìm đến dòng 146-150:
 ```
